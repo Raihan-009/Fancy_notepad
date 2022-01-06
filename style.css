@@ -1,0 +1,24 @@
+body
+{
+    padding: 0px;
+    font-family: 'Playfair Display', serif;
+}
+
+.section_one
+{
+    padding: 5px;
+}
+
+.card
+{
+    padding: 10px;
+}
+.center_text
+{
+    text-align: center;
+    margin-top: 5px;
+}
+.text_bold
+{
+    font-weight:bolder;
+}
